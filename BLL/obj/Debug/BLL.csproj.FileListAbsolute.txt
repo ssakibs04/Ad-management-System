@@ -1,0 +1,12 @@
+E:\ad_Manager\BLL\bin\Debug\BLL.dll
+E:\ad_Manager\BLL\bin\Debug\BLL.pdb
+E:\ad_Manager\BLL\bin\Debug\DLL.dll
+E:\ad_Manager\BLL\bin\Debug\DLL.pdb
+E:\ad_Manager\BLL\bin\Debug\DLL.dll.config
+E:\ad_Manager\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\ad_Manager\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ad_Manager\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\ad_Manager\BLL\obj\Debug\BLL.dll
+E:\ad_Manager\BLL\obj\Debug\BLL.pdb
+E:\ad_Manager\BLL\bin\Debug\EntityFramework.dll
+E:\ad_Manager\BLL\bin\Debug\EntityFramework.xml

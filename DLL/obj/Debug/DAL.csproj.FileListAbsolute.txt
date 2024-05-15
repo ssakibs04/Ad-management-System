@@ -1,0 +1,14 @@
+E:\ad_Manager\DLL\bin\Debug\DLL.dll.config
+E:\ad_Manager\DLL\bin\Debug\DLL.dll
+E:\ad_Manager\DLL\bin\Debug\DLL.pdb
+E:\ad_Manager\DLL\bin\Debug\EntityFramework.dll
+E:\ad_Manager\DLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\ad_Manager\DLL\bin\Debug\EntityFramework.xml
+E:\ad_Manager\DLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\ad_Manager\DLL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\ad_Manager\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\ad_Manager\DLL\obj\Debug\DAL.csproj.Up2Date
+E:\ad_Manager\DLL\obj\Debug\DLL.dll
+E:\ad_Manager\DLL\obj\Debug\DLL.pdb
+E:\ad_Manager\DLL\obj\Debug\DLL.Migrations.intoDB.resources
+E:\ad_Manager\DLL\obj\Debug\DAL.csproj.GenerateResource.cache
